@@ -23,13 +23,13 @@ pip install -r requirements.txt
 
 ### 第三步：下载数据集和模型
 
-| 文件 | 下载链接 | 放哪里 | 大小 |
+| 文件 | 获取方式 | 放哪里 | 大小 |
 |------|---------|--------|------|
-| 数据集 | ⚠️ [百度网盘链接待补充] | 解压到项目根目录 | 1.9 GB |
+| 数据集 | 📱 微信群下载 3 个 zip (Japan/India/Czech) | 解压到项目根目录 | 1.9 GB |
 | 模型权重 | ✅ 已包含在仓库中 | `app/weights/` | 33 MB |
 | 演示图片 | ✅ 已包含在仓库中 | `app/test_images/` | 2.3 MB |
 
-> 数据集解压后目录结构应为：`roaddetection/Japan/` `roaddetection/India/` `roaddetection/Czech/`
+> 解压后目录结构应为：`roaddetection/Japan/` `roaddetection/India/` `roaddetection/Czech/`
 
 ### 第四步：启动
 

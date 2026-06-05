@@ -13,15 +13,12 @@ India/
 Czech/
 raw_data/
 
-# 模型权重 (用 Git LFS 或网盘分享)
-*.pt
-app/weights/
+# 模型权重 - 已上传
 
 # 训练输出
 runs/
 
-# 演示图片 (太大, 各人用自己的)
-app/test_images/
+# 演示图片 - 已上传
 
 # IDE
 .vscode/

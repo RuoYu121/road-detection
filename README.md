@@ -4,6 +4,43 @@
 
 ---
 
+## 🚀 新手 3 分钟跑起来
+
+> 写给组员：按下面步骤做，3 分钟就能在自己电脑上跑起来。
+
+### 第一步：拉代码
+
+```bash
+git clone https://github.com/RuoYu121/road-detection.git
+cd roaddetection
+```
+
+### 第二步：装依赖
+
+```bash
+pip install -r requirements.txt
+```
+
+### 第三步：下载数据集和模型
+
+| 文件 | 下载链接 | 放哪里 | 大小 |
+|------|---------|--------|------|
+| 数据集 | ⚠️ [百度网盘链接待补充] | 解压到项目根目录 | 1.9 GB |
+| 模型权重 | ✅ 已包含在仓库中 | `app/weights/` | 33 MB |
+| 演示图片 | ✅ 已包含在仓库中 | `app/test_images/` | 2.3 MB |
+
+> 数据集解压后目录结构应为：`roaddetection/Japan/` `roaddetection/India/` `roaddetection/Czech/`
+
+### 第四步：启动
+
+```bash
+streamlit run app/app.py
+```
+
+浏览器自动打开 → 上传图片 → 看结果 🎉
+
+---
+
 ## 📋 目录
 
 - [项目简介](#项目简介)
@@ -239,7 +276,13 @@ A: `app/weights/` 目录下，`yolov8n_best.pt` 和 `yolov8s_best.pt`。
 
 ## 团队成员
 
-待补充 ✏️
+| 角色 | 姓名 | GitHub |
+|------|------|--------|
+| 组长 | — | [RuoYu121](https://github.com/RuoYu121) |
+| 组员 | 待补充 | — |
+| 组员 | 待补充 | — |
+
+> 把组员名字和 GitHub 填上去就行
 
 ---
 

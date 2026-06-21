@@ -1,0 +1,38 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# 数据集 (太大, 不上传)
+datasets/
+Japan/
+India/
+Czech/
+raw_data/
+
+# 模型权重 - 已上传
+
+# 训练输出
+runs/
+
+# 演示图片 - 已上传
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/*
+!.streamlit/config.toml
+
+# 本地运行日志和配置
+*.log
+Ultralytics/
+前端要求.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db

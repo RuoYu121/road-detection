@@ -1,0 +1,9 @@
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
+
+[server]
+headless = true
+showEmailPrompt = false

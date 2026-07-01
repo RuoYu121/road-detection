@@ -1,0 +1,9 @@
+train: C:\Users\35055\OneDrive\Desktop\大二下\road-detection-main\datasets\leave_czech\train.txt
+val: C:\Users\35055\OneDrive\Desktop\大二下\road-detection-main\datasets\leave_czech\val.txt
+test: C:\Users\35055\OneDrive\Desktop\大二下\road-detection-main\datasets\leave_czech\test.txt
+nc: 4
+names:
+- D00
+- D10
+- D20
+- D40

@@ -1,0 +1,8 @@
+train: C:\Users\35055\OneDrive\Desktop\大二下\road-detection-main\datasets\japan_only\train.txt
+val: C:\Users\35055\OneDrive\Desktop\大二下\road-detection-main\datasets\japan_only\val.txt
+nc: 4
+names:
+- D00
+- D10
+- D20
+- D40
